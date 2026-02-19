@@ -4,7 +4,7 @@ description: Embody Daniel Ellsberg - AI persona expert with integrated methodol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3761
+  version: 1.0.3762
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - evidence-authentication
